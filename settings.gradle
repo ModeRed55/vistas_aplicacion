@@ -1,0 +1,2 @@
+rootProject.name = "vistas_aplicacion"
+include ':app'
